@@ -1,0 +1,10 @@
+[package]
+name = "i5demux"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.5.19"
+flate2 = "1.0.34"
+rayon = "1.10.0"
+bio = "2.0.3"
