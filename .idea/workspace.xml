@@ -7,11 +7,8 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7e97e34-67df-43c9-a6e7-de81f93347dc" name="Changes" comment="Added example tsv">
+    <list default="true" id="e7e97e34-67df-43c9-a6e7-de81f93347dc" name="Changes" comment="fixes">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nik/IdeaProjects/i5demux/test_files&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nik/IdeaProjects/i5demux/.idea&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,6 +69,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/Genomics Data - Fjord Phyto/2022/230421_M04586_0871_000000000-L3TKM/Sequences" />
       <recent name="$PROJECT_DIR$/test_files" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -125,6 +124,7 @@
       <workItem from="1738326794757" duration="2420000" />
       <workItem from="1738350559746" duration="4636000" />
       <workItem from="1738492122653" duration="58000" />
+      <workItem from="1738732385110" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="i5demux">
       <option name="closed" value="true" />
@@ -142,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727933796566</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixes">
+      <option name="closed" value="true" />
+      <created>1738732435932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738732435932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="i5demux" />
     <MESSAGE value="Added example tsv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added example tsv" />
+    <MESSAGE value="fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
   </component>
 </project>

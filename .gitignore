@@ -1,3 +1,7 @@
 /target
 /Genomics Data - Fjord Phyto/
 /test_files/
+/.idea/
+/barcodes.tsv
+/i5demux.iml
+/Cargo.lock
